@@ -26,7 +26,7 @@ Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/shane/student-management-system.git
 cd student-management-system
 
 
